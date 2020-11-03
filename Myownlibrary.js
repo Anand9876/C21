@@ -4,5 +4,8 @@ wallrightedge=wall.x
 if(bulletrightedge>=wallrightedge){
 	return true;
 }
+else{
 return false;
+}
+
 }
